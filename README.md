@@ -1,1 +1,3 @@
 # Closed-Domain-Question-Answering-System-Using-BERT-
+In closed domains of knowledge, a question of interest is not generally available for the internet to answer. Closed domain QA systems may be trained on unique documents in order to provide question answering related to those documents. 
+  This research will address a closed domain question answer system based on Natural Language Processing (NLP) and deep learning techniques for customer product support. The proposed model system will be based on a BERT architecture that was pre-trained using the SQUAD dataset. This study will use a transfer learning technique to apply it to the customer dataset. The focus of this research paper is on 
